@@ -100,7 +100,7 @@
 (fset 'yes-or-no-p 'y-or-n-p)
 
 (set-face-attribute 'default nil
-  :family "Menlo" :height 130 :weight 'normal)
+  :family "Liberation Mono" :height 125 :weight 'normal)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
